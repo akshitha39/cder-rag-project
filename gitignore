@@ -1,0 +1,24 @@
+# Environment variables - NEVER commit this
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# ChromaDB vector store (regenerated on first run)
+cder_vector_db/
+
+# Evaluation outputs (optional - can commit or ignore)
+# week9_eval_detailed.csv
+# week9_eval_summary.csv
+# *.png
+
+# Class documents (not for public repo)
+*.docx
+*.pptx
+chatgpt_responses.txt
