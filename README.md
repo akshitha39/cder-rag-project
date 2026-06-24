@@ -8,8 +8,8 @@ A research project comparing three AI retrieval architectures to minimize halluc
 
 ## 👥 Authors
 
-- **Karthik Desina** — Computer Science, Montclair State University
-- **Akshitha Prathani** — Data Science, Montclair State University  
+- **Akshitha Prathani** — Data Science, Montclair State University
+- **Karthik Desina** — Computer Science, Montclair State University 
 - **Kruti Enugu** — Data Science, Montclair State University
 
 ---
